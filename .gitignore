@@ -1,0 +1,6 @@
+*.sqlite3
+*.pyc
+*.vscode
+
+!movie_app/migrations/
+movie_app/migrations/0001_initial.py
