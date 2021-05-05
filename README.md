@@ -4,7 +4,7 @@
 [![Django Version](https://img.shields.io/badge/django-3.2-brightgreen.svg)](https://djangoproject.com)
 [![Django Rest Framework Version](https://img.shields.io/badge/djangorestframework-3.12-brightgreen.svg)](https://www.django-rest-framework.org/)
 
-This is a Django demo project of the drf-chunked-upload module.
+This is a Django Rest API project for movie collection.
 
 ## Running the Project Locally
 
