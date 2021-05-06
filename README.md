@@ -1,4 +1,4 @@
-# drf-chunked-upload example
+# Django Rest API for movie crud
 
 [![Python Version](https://img.shields.io/badge/python-3.9-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.2-brightgreen.svg)](https://djangoproject.com)
